@@ -1,6 +1,7 @@
 # Confluence to Markdown converter which is actually working
 
-Convert [Confluence HTML export](#conflhowto) to Markdown. Forked from [meridius](https://github.com/meridius/confluence-to-markdown)
+Convert [Confluence HTML export](#conflhowto) to Markdown.  
+Forked from [meridius/confluence-to-markdown](https://github.com/meridius/confluence-to-markdown)
 
 
 ## Requirements
@@ -83,7 +84,7 @@ Please note that Blog will **NOT** be exported to HTML. You have to copy it manu
 
 # Attribution
 
-Thanks to [Eric White](https://github.com/EWhite613/Confluence-to-Github-Markdown) for a starting point.
+Thanks to [Eric White](https://github.com/EWhite613/Confluence-to-Github-Markdown) for a starting point.  
 Forked from [meridius](https://github.com/meridius/confluence-to-markdown)
 
 [pandoc]: http://pandoc.org/installing.html
