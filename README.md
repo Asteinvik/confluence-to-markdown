@@ -83,8 +83,8 @@ Please note that Blog will **NOT** be exported to HTML. You have to copy it manu
 
 # Attribution
 
-Thanks to Eric White for a starting point.
-
+Thanks to [Eric White](https://github.com/EWhite613/Confluence-to-Github-Markdown) for a starting point.
+Forked from [meridius](https://github.com/meridius/confluence-to-markdown)
 
 [pandoc]: http://pandoc.org/installing.html
 [pandoc-options]: http://hackage.haskell.org/package/pandoc
