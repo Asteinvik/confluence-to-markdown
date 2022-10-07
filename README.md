@@ -1,6 +1,6 @@
 # Confluence to Markdown converter which is actually working
 
-Convert [Confluence HTML export](#conflhowto) to Markdown
+Convert [Confluence HTML export](#conflhowto) to Markdown. Forked from [meridius](https://github.com/meridius/confluence-to-markdown)
 
 
 ## Requirements
